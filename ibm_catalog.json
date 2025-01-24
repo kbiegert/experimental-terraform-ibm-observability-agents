@@ -64,12 +64,12 @@
           "dependencies": [
             {
               "name": "testing-deploy-arch-ibm-observability",
-              "id": "daf2cf91-2384-4205-b7f4-621299a4896d",
+              "id": "5a722ff3-440a-49d4-b149-19e794bc10ca",
               "version": ">=1.2.2",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "input_mapping": [
                 {
@@ -261,12 +261,12 @@
               "dependencies": [
                 {
                   "name": "deploy-arch-ibm-slz-ocp",
-                  "id": "95fccffc-ae3b-42df-b6d9-80be5914d852-global",
-                  "version": ">=v6.2.1",
+                  "id": "61f1bdb3-b174-42e3-8197-93c0cdaa1230",
+                  "version": ">=v5.31.2",
                   "flavors": [
                     "standard"
                   ],
-                  "catalog_id": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc",
+                  "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
                   "optional": false,
                   "on_by_default": false,
                   "input_mapping": [
@@ -278,12 +278,12 @@
                 },
                 {
                   "name": "Testing_Retrieval_Augmented_Generation_Pattern_dev",
-                  "id": "8e851423-4cfc-40e7-a008-fb449d953cb9",
+                  "id": "94b4487d-94db-41e4-beba-3faa76b50b95",
                   "version": ">=1.2.4",
                   "flavors": [
                     "standard"
                   ],
-                  "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+                  "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
                   "optional": false,
                   "on_by_default": false,
                   "input_mapping": [
