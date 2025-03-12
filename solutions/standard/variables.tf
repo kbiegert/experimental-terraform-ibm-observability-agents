@@ -56,6 +56,7 @@ variable "cluster_data" {
     resource_group_id            = optional(string)
     vpc_id                       = optional(string)
   }))
+  default = null
 }
 
 variable "wait_till" {
