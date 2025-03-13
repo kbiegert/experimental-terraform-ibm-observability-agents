@@ -32,7 +32,8 @@
               "role_crns": [
                 "crn:v1:bluemix:public:iam::::serviceRole:Manager",
                 "crn:v1:bluemix:public:iam::::role:Viewer"
-              ]
+              ],
+              "notes": "Here is where you might see additional information regarding the need for this IAM permission."
             }
           ],
           "architecture": {
